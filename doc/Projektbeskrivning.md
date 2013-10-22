@@ -1,28 +1,16 @@
-
 # Projektnamn här
 Projektmedlemmar: 
-[tstjostudent](https://github.com/tstjostudent), [xx222yy](https://github.com/tstjostudent), [yy222xx](https://github.com/tstjostudent)
+[Claes Svensson](https://github.com/cs222rs), [cs222rs](https://github.com/cs222rs)
 
-*Lista alla medlemmar ovan. Ni behöver inte ange fullständiga namn utan länk till GitHub-konto räcker.*
-
-[Exekverbar version av projektet](http://tstjostudent.github.io/Projektet)
+[Exekverbar version av projektet]
 
 *Länka till en körbar version av projektet ovan. Exempelvis kan ni skapa en gh-pages-branch på samma sätt som i Uppgift 1.1, laboration 1.*
 
 ## Beskrivning av projektet
-*En kort och koncis beskrivning av projektet. Vad är det ni vill skapa? Varför? Hur fick ni idén?*
+*Jag planerar att skapa en sida där jag samlar och presenterar information jag skapat i rollspels syfte. informationen som presentereas skall så göra på ett lättförståligt och snabb referensbart sätt. Användaren skall enkelt kunna hitta och identifiera informationen de behöver, till ett flertal olika system. Anledningen till att jag vill skapa denna webbplats är för att kunna hålla reda på en mängd information som för tillfället finns finns lagrat som dokument på google drive där den är svår hitta ibland samt att korssreferera.*
 
 ## Tekniker
-*Vilka tekniker kommer att användas? Kommer ni att använda några ramverk? CSS-preprocessors?*
-
-## Begränsningar
-*Eventuella begränsningar i projektet. Kanske kommer viss funktionalitet att fejkas eftersom ni inte besitter kunskaper att skapa detta ännu?*
-
-## Förstudier
-*Eventuellt redan existerande prototyper, användarundersökningar etc. Kanske gör ni om en befintlig webbplats? Beskriv då det här.*
-
-## *Förändra*
-*Lägg gärna till egna rubriker eller förändra strukturen så att den passar ert projekt.*
+*De tekniker som kommer att användas är  html och CSS*
 
 ## Tidsplanering
 *Länka till tidsplaneringen här, eller fäll in som en bild.*
