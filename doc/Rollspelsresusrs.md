@@ -13,5 +13,5 @@ Projektmedlemmar:
 *De tekniker som kommer att användas är  html och CSS.*
 
 ## Tidsplanering
-*Länka till tidsplaneringen här, eller fäll in som en bild.*
+[Planering](https://docs.google.com/file/d/0B_H0q2DuQ_P-ejVLQi1aM1lXbEE/edit?usp=sharing)
 
