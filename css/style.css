@@ -1,0 +1,45 @@
+#navigation 
+{
+    margin: 0; padding-top: 0.85em; width: auto; font-family:'Alegreya SC', Georgia, serif; font-size: 1.4em; 
+}
+#navigation li 
+{
+    margin: 0 0 0.5em 0; display: block; float: left; clear: none; margin-right: 2.5%; background:#d18b5e; -moz-border-radius: 2px; -webkit-border-radius: 2px; border-radius: 2px; padding:5px 10px 5px 10px;
+}
+#navigation li:last-child 
+{
+    margin-right: 0; 
+}
+#navigation a 
+{
+    display: block; color: #FFF; text-decoration:none; 
+}
+#navigation a:hover 
+{
+    color: #484a50; border-bottom-color: #484a50; 
+}
+#navigation .current
+{
+    background:#666; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; background:none; 
+}
+#navigation 
+{
+    margin: 0 6% 0 0; padding: 0; 
+}
+#navigation li 
+{
+    margin: 0; display: block; float: left; width: 100%; clear: none; background:none; 
+}
+#navigation a 
+{
+    padding: 6px 0 8px; text-indent: 10px; color: #fff; background: rgba(194,100,40,0.75) url(images/bg_arrow_white.png) 96% 50% no-repeat; border-top: 1px solid rgb(194,100,40); -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; 
+}
+#navigation a:hover 
+{
+    border-bottom: none; 
+}
+
+
+@media only screen and (min-width: 481px) 
+{
+}
